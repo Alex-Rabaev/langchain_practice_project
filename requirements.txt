@@ -1,5 +1,9 @@
 python-dotenv
-langchain
-langchain-openai
-langchain-community
+aiogram>=3.5
+fastapi
+uvicorn
 pydantic
+langchain>=0.2
+langchain-openai>=0.1
+langchain-community
+pymongo
