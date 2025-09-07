@@ -1,0 +1,1 @@
+Practice working with LangChain, simple integration with the FastAPI framework.
